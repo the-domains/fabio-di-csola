@@ -1,0 +1,51 @@
+layout_spectrum: 0.7224753878317257
+typography_spectrum: 0.93186541687356
+color:
+  lightness: 0.34742009850587735
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.13591747480960986
+  brandStrength: 0.038686499879926
+  rhythmicContrast: 0.7807948427793044
+coverPrefs:
+  filter: false
+name: 'Fabio Di Càsola '
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://klang.ch'
+    label: Klang Festival
+  - type: external
+    url: 'https://www.zhdk.ch/person/150765'
+    label: 'University of Arts, Zürich'
+github: true
+description: clarinet performer & teacher
+author: {}
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+content_rating:
+  adult: false
+opengraph: {}
+title: Fabio Di Càsola
