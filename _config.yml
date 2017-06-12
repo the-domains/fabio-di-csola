@@ -1,3 +1,18 @@
+layout_spectrum: 0.3600982356815608
+typography_spectrum: 0.9340187350529625
+color:
+  lightness: 0.47546866138742333
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.493340992106051
+  brandStrength: 0.3255845466576111
+  rhythmicContrast: 0.04616971763441026
+coverPrefs:
+  filter: false
 name: 'Fabio Di Càsola '
 analytics: {}
 purpose:
@@ -30,22 +45,7 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.5082946130291255
-color:
-  lightness: 0.2685604970278864
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.9775878389779072
-  brandStrength: 0.9534965240387338
-  rhythmicContrast: 0.6826289868458996
 content_rating:
   adult: false
-typography_spectrum: 0.9311443652438535
 opengraph: {}
 title: Fabio Di Càsola
-coverPrefs:
-  filter: false
