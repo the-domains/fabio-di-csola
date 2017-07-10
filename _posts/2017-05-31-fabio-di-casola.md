@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-31T06:21:34.136Z'
-datePublished: '2017-05-31T06:22:36.917Z'
+dateModified: '2017-07-10T14:02:45.092Z'
+datePublished: '2017-07-10T14:02:45.602Z'
 title: Fabio Di Casola
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-05-31-fabio-di-casola.md
 starred: true
 datePublishedOriginal: '2017-05-31T06:22:36.917Z'
-sourcePath: _posts/2017-05-31-fabio-di-casola.md
 url: fabio-di-casola/index.html
 _type: Article
 
