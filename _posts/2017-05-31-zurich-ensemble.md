@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-31T12:07:32.307Z'
+datePublished: '2017-07-10T14:02:45.605Z'
 description: >-
   zurich ensemble: Eine in und aus der Dunkelheit geborene Musik, die bei aller
   Düsternis doch lichte und hoffnungsvolle Züge in sich birgt? Genau das ist
@@ -8,7 +8,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-05-31T12:06:34.426Z'
+dateModified: '2017-07-10T14:02:45.092Z'
 sourcePath: _posts/2017-05-31-zurich-ensemble.md
 title: zurich ensemble
 hasPage: true
