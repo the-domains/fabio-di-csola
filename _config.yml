@@ -1,16 +1,16 @@
-layout_spectrum: 0.3600982356815608
-typography_spectrum: 0.9340187350529625
+layout_spectrum: 0.29836448843295843
+typography_spectrum: 0.8737971349723527
 color:
-  lightness: 0.47546866138742333
+  lightness: 0.7980697088511569
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-  saturation: 0.493340992106051
-  brandStrength: 0.3255845466576111
-  rhythmicContrast: 0.04616971763441026
+  saturation: 0.1247528298391896
+  brandStrength: 0.6775554177257243
+  rhythmicContrast: 0.9371054690674243
 coverPrefs:
   filter: false
 name: 'Fabio Di Càsola '
